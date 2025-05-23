@@ -6,7 +6,7 @@ If you wish to use [ProfitView](https://profitview.net) for teaching, please ema
 
 ## Repository Contents
 
-This repository contains supplementary materials for a guest lecture on algorithmic trading delivered on . The examples are designed to illustrate:
+This repository contains supplementary materials for a guest lecture on algorithmic trading delivered on May 20th, 2025. The examples are designed to illustrate:
 
 - Basic algorithmic trading concepts
 - Simple trading strategy implementation
