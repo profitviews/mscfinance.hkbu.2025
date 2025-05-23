@@ -1,5 +1,8 @@
 from profitview import Link, http, logger
 
+# This is a ProfitView script showing how to control a Bot via a webhook.  
+# It should be copied to the ProfitView Signals interface and run from there.
+# For example it can be triggered from a GoogleColab notebook.
 
 class Trading(Link):
 	ready = False

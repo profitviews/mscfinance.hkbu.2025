@@ -2,6 +2,7 @@ from profitview import Link, logger
 import talib
 import numpy as np 
 
+# This is a simple example of a trading algorithm shown in the talk given to MSC Finance students.
 
 class Trading(Link):
 	ready = False
