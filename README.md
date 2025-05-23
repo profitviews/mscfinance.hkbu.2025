@@ -1,10 +1,12 @@
 # HKBU MSc Finance - Algorithmic Trading Module - Guest Lecture Materials
 
-This repository contains example code and resources to accompany a guest lecture on algorithmic trading for [HKBU's MSc in Finance program](https://mscfinance.hkbu.edu.hk/). The examples are provided by [ProfitView](https://profitview.net) to demonstrate practical applications of algorithmic trading concepts.
+This repository contains example code and resources to accompany a guest lecture on algorithmic trading for [HKBU's MSc in Finance program](https://mscfinance.hkbu.edu.hk/) by [Richard Hickling](https://www.linkedin.com/in/rthickling/). The examples are provided by [ProfitView](https://profitview.net) to demonstrate practical applications of algorithmic trading concepts.
 
-## About This Repository
+If you wish to use [ProfitView](https://profitview.net) for teaching, please email [info@profitview.net](mailto:info@profitview.net) or contact [Richard Hickling](https://www.linkedin.com/in/rthickling/).
 
-This repository contains supplementary materials for a guest lecture on algorithmic trading. The examples are designed to illustrate:
+## Repository Contents
+
+This repository contains supplementary materials for a guest lecture on algorithmic trading delivered on . The examples are designed to illustrate:
 
 - Basic algorithmic trading concepts
 - Simple trading strategy implementation
